@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "password": "abc",
+        "first_name": "Rita",
+        "role": "Student",
+        "dept": "Computer Science"    
+    },
+    {
+        "id": 2,
+        "password": "abc",
+        "first_name": "Vinny",
+        "role": "Staff",
+        "dept": "Computer Science"  
+    },
+    {
+         "id": 3,
+         "password": "abc",
+         "first_name": "Paul",
+         "role": "Libarian",
+         "dept": "Libary"
+    },
+    {
+        "id": 4,
+        "password": "abc",
+        "first_name": "Max",
+        "role": "Student",
+        "dept": "Computer Science"
+    },
+    {
+        "id": 5,
+        "password": "abc",
+        "first_name": "David",
+        "role": "Student",
+        "dept": "Computer Science"
+    },
+    {
+        "id": 6,
+        "password": "abc",
+        "first_name": "Ron",
+        "role": "Staff",
+        "dept": "Computer Science"
+    }
+]
